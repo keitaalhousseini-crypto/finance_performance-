@@ -315,4 +315,4 @@ Learning and portfolio project. Execution results, automated test reports and da
 
 Data Analytics & Data Engineering Portfolio
 
-*Python | SQL | PostgreSQL | Docker | Business Intelligence*
+*Python | SQL | PostgreSQL | Docker | Business Intelligence*# finance_performance-

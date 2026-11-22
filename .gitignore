@@ -5,3 +5,25 @@ __pycache__/
 data/raw/
 data/processed/
 .DS_Store
+
+# Identifiants et secrets
+.env
+.env.*
+!.env.example
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Données volumineuses
+data/raw/
+data/processed/
+
+# Fichiers macOS et VS Code
+.DS_Store
+.vscode/
+
+# Logs
+*.log

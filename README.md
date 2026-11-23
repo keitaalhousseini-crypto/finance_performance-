@@ -273,13 +273,6 @@ Automated unit tests verify:
 
 Additional SQL queries help validate the loaded data.
 
-## Dashboard Screenshots
-
-Add verified screenshots after building the dashboard:
-
-- `dashboards/overview.png`
-- `dashboards/monthly_sales.png`
-- `dashboards/country_analysis.png`
 
 ## Future Improvements
 

@@ -300,10 +300,6 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 Dataset: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
-## Project Status
-
-Learning and portfolio project. Execution results, automated test reports and dashboard screenshots should be added after successful local validation.
-
 ## Author
 
 Data Analytics & Data Engineering Portfolio
